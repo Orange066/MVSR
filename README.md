@@ -93,5 +93,5 @@ If you find this code useful, please cite our paper:
 ```
 
 ## Credit
-Our code borrows from [FreeViewSynthesis](https://github.com/isl-org/FreeViewSynthesis), [RCAN](https://github.com/yulunzhang/RCAN), and [C2-Matching.
+Our code borrows from [FreeViewSynthesis](https://github.com/isl-org/FreeViewSynthesis), [RCAN](https://github.com/yulunzhang/RCAN), and [C2-Matching
 ](https://github.com/yumingj/C2-Matching).
