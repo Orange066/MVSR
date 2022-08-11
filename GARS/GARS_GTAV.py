@@ -3,6 +3,7 @@ sys.path.append("../")
 import ext
 import numpy as np
 import PIL
+import PIL.Image
 import os
 
 import glob

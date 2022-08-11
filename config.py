@@ -62,7 +62,6 @@ beta2 = 0.999
 T_period = [train_iters, train_iters]
 restarts = [train_iters]
 restart_weights = [1]
-Refine_RBs = 20
 
 gan_type = "WGAN_GP"
 loss_begin = 0
