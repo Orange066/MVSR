@@ -19,6 +19,7 @@ make
 
 ## Run Geometry-Aware Reference Synthesis (GARS) module to synthesize references
 We preprocess and reorganize the folder structure for three public datasets, [Tanks and Temples](https://github.com/isl-org/FreeViewSynthesis), [BlendedMVS](https://github.com/YoYo000/BlendedMVS), and [GTAV](https://phuang17.github.io/DeepMVS/mvs-synth.html), for training and evaluation.
+In addition, we provide the preprocess code for [Tanks and Temples](https://github.com/isl-org/FreeViewSynthesis) datasets in [preprocess_Tanks_Temples.py](GARS/preprocess_Tanks_Temples.py).
 You can download our preprocessed version from [baidudisk](https://pan.baidu.com/s/1_mhkSEkliNDfriJ_rqQuTQ), code: ey16, and place them in the [GARS](GARS) folder. 
 Then run:
 ```
